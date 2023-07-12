@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Hello Rails React
+# Hello Rails Back End
 
 # 📗 Table of Contents
 
@@ -19,9 +19,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖Hello Rails React <a name="about-project"></a>
+# 📖Hello Rails Back End <a name="about-project"></a>
 
-**Hello Rails React is a random greeting. I used Ruby on Rails for backend and React for front end**
+**Hello Rails Back End is a random greeting.**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -32,12 +32,6 @@
   <ul>
     <li><a href="#">Ruby on Rails</a></li>
   </ul>
-</details>
-<details>
-  <summary>JavaScript</summary>
-    <ul>
-      <li><a href="#">React</a></li>
-    </ul>
 </details>
 <!-- Features -->
 
@@ -64,13 +58,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd <desired-folder>
-  git clone https://github.com/batoorsohail/hello-rails-react.git
+  git clone https://github.com/batoorsohail/hello-rails-back-end.git
 ```
 
 ### Install <a name="install"></a>
 
 ```sh
-  cd hello-rails-react
+  cd hello-rails-back-end
   bundle install
 ```
 
