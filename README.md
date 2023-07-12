@@ -21,7 +21,7 @@
 
 # 📖Hello Rails Back End <a name="about-project"></a>
 
-**Hello Rails Back End is a random greeting.**
+**Hello Rails Back End is a random greeting API. I used Ruby On Rails as an API to the front end for [hello-rails-front-end](https://github.com/batoorsohail/hello-react-front-end)**
 
 ## 🛠 Built With <a name="built-with"></a>
 
